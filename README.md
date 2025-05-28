@@ -1,5 +1,6 @@
-### 🫡 Hi there!
-## Web Developer | CS graduate
+# 🫡 Hi there!
+
+**`Web Developer | CS graduate`**
 
 - 🌱 I'm currently learning React
 - 🚀 Also working on expanding my portfolio
