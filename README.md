@@ -1,7 +1,7 @@
-<h1 align="center">🫡 Hi there</h1>
-<h3 align="center">Web Developer | CS graduate</h3>
+### 🫡 Hi there!
+## Web Developer | CS graduate
 
-- 🌱 I;m learning React
+- 🌱 I'm learning React
 - 🚀 I'm currently working on expanding my portfolio
 - 🤝 I’m looking for an internship
 
