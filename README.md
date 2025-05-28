@@ -1,11 +1,9 @@
-<h1 align="center">🫡 Hi there, I'm Tomasz Pawłowski!</h1>
-<h3 align="center">Welcome to my Github page! </br> I'm CS graduate, focused on <strong>Web Development</strong> </h3>
+<h1 align="center">🫡 Hi there</h1>
+<h3 align="center">Web Developer | CS graduate</h3>
 
-<p align="center">
-- 📍 I’m currently based in Kalisz, Poland
-- 🤝 I’m looking for an internship
+- 🌱 I;m learning React
 - 🚀 I'm currently working on expanding my portfolio
-</p>
+- 🤝 I’m looking for an internship
 
 ### ⚒️ Languages and Tools
 
@@ -14,7 +12,16 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />       
 </br>
+
+### My LinkedIn
+<a href="https://www.linkedin.com/in/tomaszdariuszpawlowski" target="_blank" rel="noreferrer"> <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32"/></picture> </a>
+
+
+            
+          
