@@ -1,8 +1,8 @@
 ### 🫡 Hi there!
 ## Web Developer | CS graduate
 
-- 🌱 I'm learning React
-- 🚀 I'm currently working on expanding my portfolio
+- 🌱 I'm currently learning React
+- 🚀 Also working on expanding my portfolio
 - 🤝 I’m looking for an internship
 
 ### ⚒️ Languages and Tools
@@ -19,9 +19,12 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />       
 </br>
 
-### My LinkedIn
+### My LinkedIn Profile
 <a href="https://www.linkedin.com/in/tomaszdariuszpawlowski" target="_blank" rel="noreferrer"> <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32"/></picture> </a>
 
+### 📊 Stats
+
+![ptomeccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptomeccc&show_icons=true&theme=gruvbox)
 
             
           
