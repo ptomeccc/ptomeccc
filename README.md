@@ -3,7 +3,7 @@
 **`Web Developer | CS graduate`**
 
 - 🌱 I'm currently learning React
-- 🚀 Also working on expanding my portfolio
+- 🚀 Working on expanding my portfolio
 - 🤝 I’m looking for an internship
 
 ### ⚒️ Languages and Tools
