@@ -1,10 +1,9 @@
 # Hello there!
 
-**`Web Developer | CS graduate`**
+**`Web Developer | E-commerce | Master's degree in CS student | CS bachelor's degree graduate`**
 
-- 🌱 I'm currently learning React
-- 🚀 Working on expanding my portfolio
-- 🤝 I’m looking for an internship
+- 🌱 I'm currently working in the E-commerce back office, including technologies like WordPress, PrestaShop, Canva, etc..
+- 🚀 In my free time, I am also working on expanding my portfolio
 
 ### ⚒️ Languages and Tools
 
