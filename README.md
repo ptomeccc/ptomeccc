@@ -2,7 +2,7 @@
 
 **`Web Developer | E-commerce | Master's degree in CS student | CS bachelor's degree graduate`**
 
-- 🌱 I'm currently working in the E-commerce back office, including technologies like WordPress, PrestaShop, Canva, etc..
+- 🌱 I'm currently working in the E-commerce back office, including technologies like WordPress, PrestaShop, Python, etc..
 - 🚀 In my free time, I am also working on expanding my portfolio
 
 ### ⚒️ Languages and Tools
