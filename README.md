@@ -1,8 +1,8 @@
 # Hello there!
 
-**`Web Developer | E-commerce | Master's degree in CS student | CS bachelor's degree graduate`**
+**`Web Developer | CS Teacher | E-commerce | Master's degree in CS student | CS bachelor's degree graduate`**
 
-- 🌱 I'm currently working in the E-commerce back office, including technologies like WordPress, PrestaShop, Python, etc..
+- 🌱 I am currently a Computer Science teacher, guiding students through everything from programming fundamentals to advanced web application development. I used to work as e-commerce specialist where I worked with technologies like WordPress, PrestaShop, Python, Excel, etc..
 - 🚀 In my free time, I am also working on expanding my portfolio
 
 ### ⚒️ Languages and Tools
